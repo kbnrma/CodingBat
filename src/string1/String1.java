@@ -1,9 +1,9 @@
 package string1;
 
-public class HelloName {
+public class String1 {
     public static void main(String[] args) {
 
-        HelloName obj = new HelloName();
+        String1 obj = new String1();
         System.out.println(obj.makeOutWord("<<>>", "Yay"));
     }
 
